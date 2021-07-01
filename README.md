@@ -2,4 +2,4 @@
 - 👀 I’m interested in music, Dev, Ecommerce, Technology 
 - 🌱 I’m currently learning React, Node, html, css 
 - 💞️ I’m looking to collaborate on everything i can
-- 📫 How to reach me sende me a message
+- 📫 How to reach me send me a message
