@@ -1,0 +1,53 @@
+github é uma rede social de codigo fonte. Ele é gratuito para uso de projetos open source. Extremamente simples de utilizar. 
+Cria repositorios remotos
+
+instalacao git
+git-scm.com/download
+
+inicia o versionamento do repositorio
+git init - 
+
+adicionar ou modifica alteracoes elegiveis para o nosso ponto no tempo
+git add nomedoarquivo.ext
+
+adiciona nosso ponto na linha do tempo
+git commit -m "mensagem"
+
+visualiza os pontos na linha do tempo(commit)
+git log
+
+Informa estado atual de alterações
+git status
+
+branch é uma ramificacao de uma linha temporal. Cria 'realidades alternativas' para o projeto
+git branch feature/lista-produtos - categoriza oss brnahcs separados por linha do tempo
+
+git checkout feature/lista-produtos
+
+git add lista-produtos.html
+
+git reset - remove o arquivo da area de staging
+
+git checkout master - navega entre nossas realidades alternativas
+
+git merge feature/lista-produtos
+pega todas alteracoes de um branch e manda ao principal/une nossas linhas de tempo
+
+apresenta um ponto indicado na linha do tempo
+git show - mostra as alteracoes do arquivo
+
+git branch mostra as ramificacoes criadas/gerencia realidades alternativas
+
+git branch -D feature/lista-produtos
+
+git push envia nossas alteracoes para um repositorio remoto (github)
+
+
+DESAFIO
+crie arquivo README.MD
+Escreva algo
+execute add e commit, depois faça o push 
+
+
+git clone baixa um projeto remoto na maquina local
+
